@@ -1,0 +1,12 @@
+2025-01-05 19:46:27 [SpringApplicationShutdownHook] DEBUG o.s.b.a.ApplicationAvailabilityBean - logback: Application availability state ReadinessState changed from ACCEPTING_TRAFFIC to REFUSING_TRAFFIC
+2025-01-05 19:46:27 [SpringApplicationShutdownHook] DEBUG o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - logback: Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@1fdfafd2, started on Sun Jan 05 19:44:57 MSK 2025
+2025-01-05 19:46:27 [SpringApplicationShutdownHook] DEBUG o.s.c.s.DefaultLifecycleProcessor - logback: Stopping beans in phase 2147482623
+2025-01-05 19:46:27 [SpringApplicationShutdownHook] DEBUG o.s.c.s.DefaultLifecycleProcessor - logback: Stopping beans in phase 2147481599
+2025-01-05 19:46:27 [tomcat-shutdown] DEBUG o.s.c.s.DefaultLifecycleProcessor - logback: Bean 'webServerGracefulShutdown' completed its stop procedure
+2025-01-05 19:46:27 [SpringApplicationShutdownHook] DEBUG o.s.c.s.DefaultLifecycleProcessor - logback: Bean 'webServerStartStop' completed its stop procedure
+2025-01-05 19:46:27 [SpringApplicationShutdownHook] DEBUG o.s.c.s.DefaultLifecycleProcessor - logback: Stopping beans in phase 1073741823
+2025-01-05 19:46:27 [SpringApplicationShutdownHook] DEBUG o.s.c.s.DefaultLifecycleProcessor - logback: Bean 'applicationTaskExecutor' completed its stop procedure
+2025-01-05 19:46:27 [SpringApplicationShutdownHook] DEBUG o.s.c.s.DefaultLifecycleProcessor - logback: Stopping beans in phase -2147483647
+2025-01-05 19:46:27 [SpringApplicationShutdownHook] DEBUG o.s.c.s.DefaultLifecycleProcessor - logback: Bean 'springBootLoggingLifecycle' completed its stop procedure
+2025-01-05 19:46:27 [SpringApplicationShutdownHook] DEBUG o.s.j.e.a.AnnotationMBeanExporter - logback: Unregistering JMX-exposed beans on shutdown
+2025-01-05 19:46:27 [SpringApplicationShutdownHook] DEBUG o.s.s.c.ThreadPoolTaskExecutor - logback: Shutting down ExecutorService 'applicationTaskExecutor'

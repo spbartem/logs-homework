@@ -1,0 +1,6 @@
+2025-01-05 19:44:57 [main] DEBUG r.p.l.LogsHomeworkApplication - logback: Running with Spring Boot v3.4.1, Spring v6.2.1
+2025-01-05 19:44:57 [main] DEBUG o.s.boot.SpringApplication - logback: Loading source class ru.productstar.logshomework.LogsHomeworkApplication
+2025-01-05 19:44:57 [main] DEBUG o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - logback: Refreshing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@1fdfafd2
+2025-01-05 19:44:57 [main] DEBUG o.s.b.f.s.DefaultListableBeanFactory - logback: Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-01-05 19:44:57 [main] DEBUG o.s.b.f.s.DefaultListableBeanFactory - logback: Creating shared instance of singleton bean 'org.springframework.boot.autoconfigure.internalCachingMetadataReaderFactory'
+2025-01-05 19:44:57 [main] DEBUG o.s.c.a.ClassPathBeanDefinitionScanner - logback: Identified candidate component class: file [D:\studies\java\productstar\source_code\logs-homework\target\classes\ru\productstar\logshomework\controller\LoggingController.class]

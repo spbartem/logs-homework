@@ -1,0 +1,12 @@
+2025-01-05 19:45:09 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - logback: Detected StandardServletMultipartResolver
+2025-01-05 19:45:09 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - logback: Detected AcceptHeaderLocaleResolver
+2025-01-05 19:45:09 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - logback: Detected FixedThemeResolver
+2025-01-05 19:45:09 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - logback: Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@248d67b6
+2025-01-05 19:45:09 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - logback: Detected org.springframework.web.servlet.support.SessionFlashMapManager@40820fad
+2025-01-05 19:45:09 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - logback: enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2025-01-05 19:45:09 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - logback: GET "/log-test", parameters={}
+2025-01-05 19:45:09 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestMappingHandlerMapping - logback: Mapped to ru.productstar.logshomework.controller.LoggingController#logTest()
+2025-01-05 19:45:09 [http-nio-8080-exec-1] DEBUG r.p.l.controller.LoggingController - logback: This is a DEBUG level message
+2025-01-05 19:45:09 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - logback: Using 'text/html', given [text/html, application/xhtml+xml, image/avif, image/webp, image/apng, application/xml;q=0.9, */*;q=0.8, application/signed-exchange;v=b3;q=0.7] and supported [text/plain, */*, application/json, application/*+json]
+2025-01-05 19:45:09 [http-nio-8080-exec-1] DEBUG o.s.w.s.m.m.a.RequestResponseBodyMethodProcessor - logback: Writing ["Check your log files!"]
+2025-01-05 19:45:09 [http-nio-8080-exec-1] DEBUG o.s.web.servlet.DispatcherServlet - logback: Completed 200 OK

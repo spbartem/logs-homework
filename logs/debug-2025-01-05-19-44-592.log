@@ -1,0 +1,2 @@
+2025-01-05 19:44:59 [main] DEBUG o.s.b.a.ApplicationAvailabilityBean - logback: Application availability state LivenessState changed to CORRECT
+2025-01-05 19:44:59 [main] DEBUG o.s.b.a.ApplicationAvailabilityBean - logback: Application availability state ReadinessState changed to ACCEPTING_TRAFFIC

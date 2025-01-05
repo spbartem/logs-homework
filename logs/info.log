@@ -1,0 +1,2 @@
+2025-01-05 19:46:27 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - logback: Commencing graceful shutdown. Waiting for active requests to complete
+2025-01-05 19:46:27 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - logback: Graceful shutdown complete
